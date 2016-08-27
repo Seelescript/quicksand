@@ -1,0 +1,21 @@
+{
+  "name": "quicksand-ss",
+  "homepage": "https://github.com/Seelescript/quicksand",
+  "authors": [
+    "carloshernandez - Seelescript <seelescript@gmail.com>"
+  ],
+  "description": "quicksand library created by http://razorjack.net/quicksand",
+  "main": "jquery.quicksand.js",
+  "keywords": [
+    "sort",
+    "quicksand"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
